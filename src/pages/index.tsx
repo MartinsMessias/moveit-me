@@ -15,7 +15,8 @@ export default function Home() {
           <CompletedChallenges />
           <Countdown />
         </div>
-        <div></div>
+        <div>
+        </div>
       </section>
     </div>
   )
