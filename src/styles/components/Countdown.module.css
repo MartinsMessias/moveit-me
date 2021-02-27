@@ -13,7 +13,7 @@
   justify-content: space-evenly;
 
   background: var(--white);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.85);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.85);
   border-radius: 5px;
   font-size: 8.5rem;
   text-align: center;
@@ -50,6 +50,8 @@
 
   border: 0;
   border-radius: 5px;
+
+  border-bottom: 5px solid var(--green);
 
   background: var(--blue);
   color: var(--white);
